@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is <u>Elsayed Elbeshry</u> from Egypt. I am a web developer , mainly using PHP, Laravel, Javascript, JQuery, SQL Database (MySql).
+#### My name is <u>**Elsayed Elbeshry**</u> from Egypt. I am a web developer , mainly using PHP, Laravel, Javascript, JQuery, SQL Database (MySql).
 
 <p>If you want to ask me anything , feel free to contact with me on this email: <elsayedelbeshry119@gmail.com> 
 
