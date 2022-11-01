@@ -2,7 +2,7 @@
 
 #### My name is <u>**Elsayed Elbeshry**</u> from Egypt. I am a web developer , mainly using PHP, Laravel, Javascript, JQuery, SQL Database (MySql).
 
-<p>If you want to ask me anything , feel free to contact with me on this email: <elsayedelbeshry119@gmail.com> 
+<p>If you want to ask me anything , feel free to contact with me on this email: **elsayedelbeshry119@gmail.com** 
 
 
 ![Elsayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsayed93&show_icons=true&theme=radical)
