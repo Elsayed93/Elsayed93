@@ -5,6 +5,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elsayed93&repo=pos-app)](https://github.com/Elsayed93/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elsayed93&repo=kalbonyan-almarsos)](https://github.com/Elsayed93/github-readme-stats)
 <!--
 **Elsayed93/Elsayed93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
