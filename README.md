@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Elsayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsayed93)](https://github.com/Elsayed93/github-readme-stats)
+[![Elsayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsayed93)](https://github.com/Elsayed93/github-readme-stats?username=Elsayed93&count_private=true)
 
 
 <!--
