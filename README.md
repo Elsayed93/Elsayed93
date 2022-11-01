@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Elsayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsayed93&count_private=true)
+![Elsayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsayed93&show_icons=true&theme=radical)
 
 
 <!--
