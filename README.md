@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### My name is <u>**Elsayed Elbeshry**</u> from Egypt. I am a web developer , mainly using PHP, Laravel, Javascript, JQuery, SQL Database (MySql).
+#### My name is <u>Elsayed Elbeshry</u> from Egypt. I am a web developer , mainly using PHP, Laravel, Javascript, JQuery, SQL Database (MySql).
 
-<p>If you want to ask me anything , feel free to contact with me on this email: <strong>elsayedelbeshry119@gmail.com</strong> </p>
+<p>If you want to ask me anything , feel free to contact with me on this email: <strong><u>elsayedelbeshry119@gmail.com</u></strong> </p>
 
 
 ![Elsayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsayed93&show_icons=true&theme=radical)
